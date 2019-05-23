@@ -1,5 +1,5 @@
 {
-    "HOT_UPDATE_URL": ["http://gameupdate1.oss-cn-hongkong.aliyuncs.com/update/"],
+    "HOT_UPDATE_URL": ["http://gameupdate.oss-cn-hongkong.aliyuncs.com/update/"],
     "GATE_SERVER_LIST": ["47.75.55.159:32167", "47.52.153.114:32167", "47.75.218.180:32167"],
 	"WEB_HTTP_URL_TEST": ["http://47.75.82.5:8101"],
 	"PAY_SERVER": "http://47.75.82.5:8101",
