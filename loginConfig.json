@@ -2,7 +2,7 @@
     "HOT_UPDATE_URL": ["https://lzgameupdate.oss-cn-hongkong.aliyuncs.com/update/"],
     "GATE_SERVER_LIST": ["G000euqd8dy.ua800.com"],
     "WEB_HTTP_URL_TEST": ["T000sgeplhv.ua800.com"],
-    "PAY_SERVER": "P000h242ar2.ua800.com",
+    "PAY_SERVER":  ["T000sgeplhv.ua800.com"],
     "httpmd5": "lz-123321.",
     "QRcode": "https://app-audes5.openinstall.io/js-test",
     "VERSION_APK":"1"
