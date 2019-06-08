@@ -1,5 +1,5 @@
 {
-    "HOT_UPDATE_URL": ["https://lzgameupdate.oss-cn-hongkong.aliyuncs.com/update/"],
+    "HOT_UPDATE_URL": ["http://10.10.100.233:8000/update/"],
     "GATE_SERVER_LIST": ["GT001euqd8y.ua800.com"],
     "WEB_HTTP_URL_TEST": ["http://TT001sgeplv.ua800.com"],
     "PAY_SERVER":  ["http://TT001sgeplv.ua800.com"],
