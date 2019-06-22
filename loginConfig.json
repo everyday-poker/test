@@ -1,6 +1,6 @@
 {
     "HOT_UPDATE_URL": ["http://upt001yvmu5rb.ua800.com/"],
-    "GATE_SERVER_LIST": ["lzt-app-poker.ua800.com:8101"],
+    "GATE_SERVER_LIST": ["lzt-app-poker.ua800.com:8001"],
     "WEB_HTTP_URL_TEST": ["http://lzt-app-poker.ua800.com:8002"],
     "PAY_SERVER":  ["http://lzt-app-poker.ua800.com:8002"],
     "httpmd5": "lz-123321.",
